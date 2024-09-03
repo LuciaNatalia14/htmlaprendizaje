@@ -1,2 +1,2 @@
 # htmlaprendizaje
-<a href="file:/pagina%20HTML/repaso.html">inicio</a>
+<a href="file:/repaso.html">inicio</a>
